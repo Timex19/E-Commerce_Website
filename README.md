@@ -1,5 +1,5 @@
 # Complete Responsive E-Commerce Website 🛒👟🥾👞🌐✨
-## [You can view the live website](https://sneakerswebsite.netlify.app/)
+## [Live Link](https://sneakerswebsite.netlify.app/)
 ![restaurant-website](img/screenshot.png)
 
 ### Complete Responsive E-Commerce Website 🛒👟🥾👞🌐✨
